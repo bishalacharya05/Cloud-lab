@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'BishalAcharyaLab04'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1CBCE83D16DB4C238E2B603FCF7C9D27 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4F066A2D514D4A239D303F2540897201 }}
