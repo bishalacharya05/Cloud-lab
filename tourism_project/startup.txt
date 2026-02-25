@@ -1,0 +1,1 @@
+gunicorn tourism_project.wsgi
